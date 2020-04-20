@@ -2,6 +2,7 @@ rencana konten bily
 - javacript
  *ES6
  *frameworks javacript
+-struktur data dasar
 - php frameworks
 - interview
 - vlogs
