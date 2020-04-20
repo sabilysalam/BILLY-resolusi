@@ -2,7 +2,11 @@ rencana konten bily
 - javacript
  *ES6
  *frameworks javacript
+  ^ veu
+  ^react
 -struktur data dasar
 - php frameworks
+  ^larafel
 - interview
 - vlogs
+- python
