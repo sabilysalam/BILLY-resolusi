@@ -1,0 +1,7 @@
+rencana konten bily 
+- javacript
+ *ES6
+ *frameworks javacript
+- php frameworks
+- interview
+- vlogs
