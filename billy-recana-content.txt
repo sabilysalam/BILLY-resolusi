@@ -3,6 +3,7 @@ rencana konten bily
  *ES6
  *frameworks javacript
   ^ veu
+  ^react
 -struktur data dasar
 - php frameworks
   ^larafel
